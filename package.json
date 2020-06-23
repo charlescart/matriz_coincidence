@@ -1,0 +1,21 @@
+{
+  "name": "letter_e",
+  "version": "1.0.0",
+  "description": "Array coincidence -  letter E",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "author": "Charles Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "@types/supertest": "^2.0.9",
+    "jest": "^26.0.1",
+    "supertest": "^4.0.2",
+    "ts-jest": "^26.1.1",
+    "typescript": "^3.9.5"
+  }
+}
